@@ -42,3 +42,8 @@ func Fromv14() string {
 	fmt.Println("I am Puppy From Version v1.4.0 and Also Returns")
 	return "Puppy Version v.1.4.0"
 }
+
+func Fromv15() string {
+	fmt.Println("I am Puppy From Version v1.5.0 and Also Returns")
+	return "Puppy Version v.1.5.0"
+}
