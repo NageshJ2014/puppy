@@ -26,12 +26,14 @@ func Wildog_barks() string {
 	return wilddog.When_Grownup(Barks())
 }
 
-func Fromv11()
-{
-        fmt.Println("I am Puppy From Version 1.1")
+func Fromv11() {
+	fmt.Println("I am Puppy From Version v1.0.0")
 }
 
-func Fromv12()
-{
-        fmt.Println("I am Puppy From Version 1.2")
+func Fromv12() {
+	fmt.Println("I am Puppy From Version v1.2.0")
+}
+
+func Fromv13() {
+	fmt.Println("I am Puppy From Version v1.3.0")
 }
