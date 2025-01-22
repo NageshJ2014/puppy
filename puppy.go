@@ -30,3 +30,8 @@ func Fromv11()
 {
         fmt.Println("I am Puppy From Version 1.1")
 }
+
+func Fromv12()
+{
+        fmt.Println("I am Puppy From Version 1.2")
+}
